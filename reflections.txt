@@ -7,3 +7,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+* Learnt about new tags such as strike,superscript,italics.
+* Having prior knowledge made this a cakewalk.
+* Havenot faced much difficulties till now.
+* Yes ,googling was quite handy .
